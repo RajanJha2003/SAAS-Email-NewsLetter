@@ -45,8 +45,8 @@ const Logo = () => {
         </g>
       </g>
     </svg>
-    <h5 className="absolute right-[-45px] xl:right-[-35px] pt-1 font-medium text-2xl">
-      Becodemy
+    <h5 className="absolute right-[-15px] xl:right-[-35px] pt-1 font-medium text-2xl">
+    Newsly
     </h5>
   </div>
   )
