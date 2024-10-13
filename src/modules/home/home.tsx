@@ -3,6 +3,7 @@ import React from 'react'
 import Banner from './elements/banner'
 import Branding from './elements/branding'
 import Benefits from './elements/benefits'
+import FeatureHighlight from './elements/feature-highlight'
 
 const Home = () => {
   return (
@@ -11,6 +12,8 @@ const Home = () => {
         <Banner />
         <Branding />
         <Benefits />
+        <FeatureHighlight />
+        <Pricing />
     </div>
   )
 }
