@@ -2,6 +2,7 @@ import Header from '@/shared/widgets/header/header'
 import React from 'react'
 import Banner from './elements/banner'
 import Branding from './elements/branding'
+import Benefits from './elements/benefits'
 
 const Home = () => {
   return (
@@ -9,6 +10,7 @@ const Home = () => {
         <Header />
         <Banner />
         <Branding />
+        <Benefits />
     </div>
   )
 }
